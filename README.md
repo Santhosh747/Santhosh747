@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif" />
 
 
-- 🌱 I’m currently learning **Artificial Intelligebce & Data Science**
+- 🌱 I’m currently learning **Artificial Intelligence & Data Science**
 
 - 💬 Ask me about **CP,DSA,App development**
 
